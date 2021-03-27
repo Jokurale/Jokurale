@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">Any doubts, questions? Feel free to ask.</h3>
-<p align="center">📫 Reache me here <a href="mailto:podsiadly.michal@protonmail.com">PROTON</a> and also here <a href="mailto:podsiadly.michal.0@gmail.com">G-MAIL</a> 📫 </p>
+[![Social banner for Jokurale](https://github.com/Jokurale/Jokurale/raw/main/header-banner--optimized.svg)](https://sdly.pl)
+
+<a href="https://sdly.pl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jokurale&count_private=true&show_icons=true&title_color=FFFFFF&bg_color=1e1c24&icon_color=473d54&text_color=2adb7e" />
+</a>
+
+<a href="https://sdly.pl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokurale&hide=html&layout=compact&title_color=FFFFFF&bg_color=1e1c24&icon_color=473d54&text_color=2adb7e" />
+</a>
 
 
-
-
-<p align="center">
-  <img src="https://www.moyalabel.pl/wp-content/uploads/2019/10/moya_logo_black.png"/>
-</p>
