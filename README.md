@@ -20,30 +20,3 @@
     <img align="center" src="https://img.shields.io/badge/-podsiadly.michal.0%40gmail.com-%232ADB7E?style=for-the-badge&logo=gmail&logoColor=%23ffffff" />
   </a>
 </div>
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-<div align="center">
-<img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23ffffff" />
-<img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff" />
-<img src="https://img.shields.io/badge/-php-%23777BB4?style=for-the-badge&logo=php&logoColor=%23ffffff" />
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/-react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff" />
-<img src="https://img.shields.io/badge/-gatsby-%23663399?style=for-the-badge&logo=gatsby&logoColor=%23ffffff" />
-<img src="https://img.shields.io/badge/-redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23ffffff" />
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/-node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=%23ffffff" />
-<img src="https://img.shields.io/badge/-mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff" />
-<img src="https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=PostgreSQL&logoColor=%23ffffff" />
-<img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=%23ffffff" />
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=%23ffffff" />
-<img src="https://img.shields.io/badge/-Adobe%20XD-%23FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=%23ffffff" />
-<img src="https://img.shields.io/badge/-Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=%23ffffff" />
-</div>
